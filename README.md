@@ -16,6 +16,7 @@ buradan bir ürünü favorilere ekleyipsonrasında favorlerden silme adımları 
   - <h2><b> Backend kısmında </b></h2>
 pet tablolarında CRUD işleleri yapıldı.</br>
 <strong>Backend'de çalıştığımız APİ testlerinde; </strong></br>
+
 <b><i>
 * Baseurl olarak petstore.swagger.io/v2 kullanıldı.</br>
 * Petshore sitesinde pet tablolarında CRUD işlemleri yapıldı.</br>

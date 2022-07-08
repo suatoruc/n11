@@ -5,7 +5,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
-import utilities.pages.WebElements;
+import pages.WebElements;
 import utilities.ConfigReader;
 import utilities.Driver;
 import utilities.Log;

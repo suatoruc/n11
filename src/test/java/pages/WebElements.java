@@ -1,4 +1,4 @@
-package utilities.pages;
+package pages;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;

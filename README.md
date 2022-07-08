@@ -11,7 +11,8 @@ buradan bir ürünü favorilere ekleyipsonrasında favorlerden silme adımları 
 * Her sayfa geçişlerinde ekran görüntüsünü alıp raporlama yapmak için hooks class yapısı kullanıldı</br>
 * Cucumber framework'ünde çalışıldıgından Raporlama için surefile ve failsafe pluginleri kullanıldı </b>
 
-<strong>APİ 
+<strong>Backend'de çalıştığımız APİ testlerinde </strong>
+
 Api testleri için baseurl olarak petstore.swagger.io/v2 kullanıldı.
 Petshore sitesinde pet tablolarında CRUD işlemleri yapıldı.
 Petshore sitesinden yapılan responce ile gelen datayı java objesi olarak kullanmak için POJO class yapısı kullanıldı

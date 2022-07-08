@@ -5,9 +5,9 @@
 sonrasında favorlerden silme adımları çalışıldı.</p>
 
 <b>
-* Framework olarak Cucumber ve Gherkin kullanıldı.
-* Page safyasında selenium4 den sonra kullanılmaya başlanılan metod yapısı kullanıldı.
-* Her sayfa geçişlerinde ekran görüntüsünü alıp raporlama yapmak için hooks class yapısı kullanıldı
+* Framework olarak Cucumber ve Gherkin kullanıldı.</br>
+* Page safyasında selenium4 den sonra kullanılmaya başlanılan metod yapısı kullanıldı.</br>
+* Her sayfa geçişlerinde ekran görüntüsünü alıp raporlama yapmak için hooks class yapısı kullanıldı</br>
 * Cucumber framework'ünde çalışıldıgından Raporlama için surefile ve failsafe pluginleri kullanıldı </b>
 
 APİ

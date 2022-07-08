@@ -1,10 +1,10 @@
 # n11
 
 <b>n11</b> sitesinde çalıştıgımız bu senaryo da;
- # 2 UI kısmında 
+ - <h2><b>UI kısmında </b></h2>
 <p>login olup bir ürün aratıp gelen sayfalar arasında ikinci sayfaya gecip</br>
 buradan bir ürünü favorilere ekleyipsonrasında favorlerden silme adımları çalışıldı.</p>
-# 2 Backend kısmında 
+ - <h2><b>Backend kısmında </b></h2>
 pet tablolarında CRUD işleleriyldı.
 
 <strong> UI daki testler için;</strong>

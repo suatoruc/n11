@@ -16,7 +16,7 @@ buradan bir ürünü favorilere ekleyipsonrasında favorlerden silme adımları 
 pet tablolarında CRUD işleleri yapıldı.</br>
 <strong>Backend'de çalıştığımız APİ testlerinde; </strong></br>
 <b><i>
-* Api testleri için baseurl olarak petstore.swagger.io/v2 kullanıldı.</br>
+* Baseurl olarak petstore.swagger.io/v2 kullanıldı.</br>
 * Petshore sitesinde pet tablolarında CRUD işlemleri yapıldı.</br>
 * Petshore sitesinden yapılan responce ile gelen datayı java objesi olarak kullanmak için </br> POJO class yapısı kullanıldı
 * POJO class icinde syntex yapısı için lombok kütüphanesi kullanıldı.</br>

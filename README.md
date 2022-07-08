@@ -5,6 +5,7 @@
 <p>login olup bir ürün aratıp gelen sayfalar arasında ikinci sayfaya gecip</br>
 buradan bir ürünü favorilere ekleyipsonrasında favorlerden silme adımları çalışıldı.</p>
 <strong> UI daki testler için; </strong></br>
+
 <b><i>
 - Framework olarak Cucumber ve Gherkin kullanıldı.</br>
 - Page safyasında selenium 4'den sonra kullanılmaya başlanılan metod yapısı kullanıldı.</br>

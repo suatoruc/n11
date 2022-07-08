@@ -4,9 +4,6 @@
  - <h2><b>UI kısmında </b></h2>
 <p>login olup bir ürün aratıp gelen sayfalar arasında ikinci sayfaya gecip</br>
 buradan bir ürünü favorilere ekleyipsonrasında favorlerden silme adımları çalışıldı.</p>
- - <h2><b>Backend kısmında </b></h2>
-pet tablolarında CRUD işleleriyldı.
-
 <strong> UI daki testler için;</strong>
 <b><i>
 * Framework olarak Cucumber ve Gherkin kullanıldı.</br>
@@ -14,6 +11,9 @@ pet tablolarında CRUD işleleriyldı.
 * Her sayfa geçişlerinde ekran görüntüsünü alıp raporlama yapmak için hooks class yapısı kullanıldı</br>
 * Cucumber framework'ünde çalışıldıgından Raporlama için surefile ve failsafe pluginleri kullanıldı </i> </b>
 
+
+ - <h2><b>Backend kısmında </b></h2>
+pet tablolarında CRUD işleleri yapıldı.
 <strong>Backend'de çalıştığımız APİ testlerinde; </strong>
 <b><i>
 * Api testleri için baseurl olarak petstore.swagger.io/v2 kullanıldı.</br>
